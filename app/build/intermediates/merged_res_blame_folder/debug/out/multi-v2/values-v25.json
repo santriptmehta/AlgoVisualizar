@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/blankspace/Desktop/Untitled Folder/Algo_VIsualizer_Android_App-adding_another_algo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/blankspace/.gradle/caches/transforms-3/ede746dfd1a66edf566848fdc63b53ff/transformed/appcompat-1.4.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

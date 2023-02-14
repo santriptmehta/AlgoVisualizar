@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlgoVis</string>
+    <string name="title_activity_bubble_sort">BubbleSort</string>
+    <string name="title_activity_insertion_sort">InsertionSortActivity</string>
+</resources>

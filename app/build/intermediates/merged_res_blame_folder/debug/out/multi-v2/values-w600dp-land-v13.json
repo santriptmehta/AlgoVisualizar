@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/blankspace/Desktop/Untitled Folder/Algo_VIsualizer_Android_App-adding_another_algo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/blankspace/.gradle/caches/transforms-3/597e6d20d4e6ecfb7d8b0b1ce0347639/transformed/material-1.4.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
